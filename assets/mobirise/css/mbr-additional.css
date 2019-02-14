@@ -1414,3 +1414,29 @@ body {
 .cid-ri0b2JgPVk .mbr-section-btn {
   text-align: left;
 }
+.cid-ri0n4osequ {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-ri0n4osequ .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-ri0n4osequ .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-ri0n4osequ .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-ri0n4osequ .mbr-text {
+  color: #ffffff;
+}
+.cid-ri0n4osequ .card {
+  padding-bottom: 1.5rem;
+}
