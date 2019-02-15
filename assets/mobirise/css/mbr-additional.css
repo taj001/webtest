@@ -1522,13 +1522,24 @@ body {
   }
 }
 .cid-ri0sJ1mhGv {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background8.jpg");
 }
 .cid-ri0sJ1mhGv .mbr-section-subtitle {
   color: #767676;
 }
 .cid-ri0sJ1mhGv .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-ribpWoXw23 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background8.jpg");
+}
+.cid-ribpWoXw23 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ribpWoXw23 .btn {
   margin: 0 0 .5rem 0;
 }
